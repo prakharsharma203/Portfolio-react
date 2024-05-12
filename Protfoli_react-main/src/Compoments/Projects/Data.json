@@ -1,0 +1,24 @@
+[
+    {
+        "title":"Linkedin chrome extension",
+        "image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3THGYbYTn2BtxZfhSt_CGtVJ_Jl4y35OFIg&s",
+        "github_link" :"https://github.com/prakharsharma203/Chrome-Extension-For-Linkedin-",
+        "Demo_link" :"#",
+        "disc":"The LinkedIn Voice Assistant Chrome Extension is a tool designed to enhance your browsing experience on LinkedIn by enabling voice commands to navigate through various features of the platform. It also helps in for saving post",
+        "tech":"Html ,Css , Js(Main)"
+    },{
+        "title":"Emoji-project",
+        "image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmWxNhl-OLU3sHQrKGJqkp1JYsks2Na13Sg&usqp=CAU",
+        "github_link" :"https://github.com/prakharsharma203/Emoji-project",
+        "Demo_link" :"https://prakharsharma203.github.io/Emoji-project/",
+        "disc":"I have built a web page using HTML, JavaScript, and CSS for emoji search. Users input queries to find emojis, displayed dynamically. JavaScript handles search and page updates. CSS styles the page. Enables efficient emoji searching and use",
+        "tech":"Html ,Css ,JavaScript , Api"
+    },{
+        "title":"Movie Search",
+        "image_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-2ZW5fhk6GjPyWRqRL0gAeDNn9NTSZMlfHA&s",
+        "github_link" :"https://github.com/prakharsharma203/Movie-Search",
+        "Demo_link" :"https://prakharsharma203.github.io/Movie-Search/",
+        "disc": "Welcome to our Movie Search website , your ultimate destination for discovering the perfect movie for every mood! With a sleek and intuitive interface crafted using HTML, CSS, and JavaScript, our platform brings the magic of cinema right to your fingertips",
+        "tech":"Html ,Css ,JavaScript , Api"
+    }
+]
